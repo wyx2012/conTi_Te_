@@ -1,4 +1,4 @@
-# ContiTE: Weight-Space Mixture-of-Experts for mRNA Translation Efficiency
+# ContiTE: Continuous Manifold MoE for Few-Shot Cross-Tissue mRNA Translation Efficiency Prediction
 
 This repository contains the official implementation of **ReMoE** (Robust Mixture-of-Experts), a framework designed for predicting mRNA Translation Efficiency (TE) across diverse tissues.
 
